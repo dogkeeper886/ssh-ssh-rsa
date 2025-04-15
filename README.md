@@ -1,5 +1,3 @@
-# Dockerfile README
-
 ## Purpose
 
 This Dockerfile provides a minimal base image based on Rocky Linux 8, pre-configured to support legacy SSH encryption using the `ssh-rsa` algorithm. This is useful for connecting to systems that only support this older encryption method.
